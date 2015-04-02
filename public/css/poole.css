@@ -34,6 +34,7 @@
  *
  * Update the foundational and global aspects of the page.
  */
+@import url(http://fonts.googleapis.com/css?family=Raleway:200);
 
 * {
   -webkit-box-sizing: border-box;
@@ -82,6 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
+  
   text-rendering: optimizeLegibility;
 }
 h1 {
