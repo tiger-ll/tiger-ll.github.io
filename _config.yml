@@ -11,9 +11,10 @@ tagline:          'Sounds like a born to be wild style designer'
 description:      'One day I found that it was more exciting to share my thoughts and acheivements by writting a blog rather than telling them to my girlfriend'
 url:              http://tiger-ll.github.io
 
-author:
+author:           
   name:           'Tiger'
-  url:            https://twitter.com/Gerti
+  url:            https://twitter.com/Ger_Ti
+  email: 		  tigersidea@gmail.com
 
 paginate:         5
 
