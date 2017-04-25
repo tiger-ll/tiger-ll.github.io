@@ -9,7 +9,7 @@ title: About
 
 Twitter: [@Ger_Ti](https://twitter.com/Ger_Ti)
 
-Github: {{ site.repo }}
+Github  : [tiger-ll]({{ site.github.repo }})
 
 ## Setup
 
